@@ -1,0 +1,16 @@
+---
+name: Perl6-GatherTake
+version: 0.0.1
+author:
+  - Moritz Lenz
+abstract: 'Perl 6 like gather { .. take } blocks'
+license: perl
+requires:
+  Coro: 1.0
+  Scalar::Util: 0
+  perl: 5.6.1
+provides:
+  Perl6::GatherTake:
+    file: lib/Perl6/GatherTake.pm
+    version: 0.0.1
+generated_by: Module::Build version 0.26
