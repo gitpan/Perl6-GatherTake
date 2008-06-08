@@ -1,5 +1,5 @@
 package Perl6::GatherTake;
-our $VERSION = '0.0.1';
+our $VERSION = '0.0.2';
 
 =head1 NAME
 
@@ -129,7 +129,7 @@ E-Mail E<lt>moritz@faui2k3.orgE<gt>.
 
 =head1 DEVELOPMENT
 
-You can optain the latest development version via subversion:
+You can obtain the latest development version via subversion:
 
     svn co https://faui2k3.org/svn/moritz/cpan/Perl6-GatherTake
 

@@ -10,7 +10,7 @@ my $build = Module::Build->new(
     module_name         => 'Perl6::GatherTake',
     dist_author         => 'Moritz Lenz',
     dist_abstract       => 'Perl 6 like gather { .. take } blocks',
-    dist_version        => '0.0.1',
+    dist_version        => '0.0.2',
     requires => {
         'perl'              => '5.6.1',
 # I don't really know which Coro version is needed, but 1.0 seems like a
