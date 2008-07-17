@@ -1,5 +1,5 @@
 package Perl6::GatherTake;
-our $VERSION = '0.0.2';
+our $VERSION = '0.0.3';
 
 =head1 NAME
 
@@ -124,7 +124,7 @@ you.
 
 =head1 AUTHOR
 
-Moritz Lenz, L<http://moritz.faui2k.org>, L<http://perl-6.de/>.
+Moritz Lenz, L<http://perlgeek.de/>, L<http://perl-6.de/>.
 E-Mail E<lt>moritz@faui2k3.orgE<gt>.
 
 =head1 DEVELOPMENT

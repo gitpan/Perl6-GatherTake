@@ -1,6 +1,6 @@
 ---
 name: Perl6-GatherTake
-version: 0.0.2
+version: 0.0.3
 author:
   - Moritz Lenz
 abstract: 'Perl 6 like gather { .. take } blocks'
@@ -14,7 +14,7 @@ requires:
 provides:
   Perl6::GatherTake:
     file: lib/Perl6/GatherTake.pm
-    version: 0.0.2
+    version: 0.0.3
 generated_by: Module::Build version 0.280801
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
